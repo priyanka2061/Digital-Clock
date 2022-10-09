@@ -1,0 +1,13 @@
+.digitalclock
+{
+    text-align: center;
+    border: 1px solid gray;
+    padding: 2rem;
+    width: 20rem;
+    margin: 8rem 40rem ;
+    background-color: rgb(191, 77, 213);
+    color: #fff;
+    /* height:60rem; */
+    
+      
+}
